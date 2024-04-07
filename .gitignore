@@ -1,4 +1,6 @@
 *.pdf
 __pycache__
+zajecia02/skrypt1.py
+zajecia01/main
 skrypt1.py
 main
