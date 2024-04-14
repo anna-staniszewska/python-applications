@@ -1,1 +1,0 @@
-# Programowanie_Aplikacji_Geoinformatycznych_Python
