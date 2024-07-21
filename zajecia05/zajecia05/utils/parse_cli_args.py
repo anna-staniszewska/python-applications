@@ -1,8 +1,10 @@
 import argparse
 
 def parse_args():
-    parser = argparse.ArgumentParser(description="Przykładowy moduł do pracy z argumentami linii poleceń.")
-    parser.add_argument("--text", "-t", required=True, help="Tekst do wyświetlenia")
-    parser.add_argument("--verbosity", "-v", help="Zwiększa szczegółowość logowania", action="store_true")
+    parser = argparse.ArgumentParser(description="System zarządzania karetkami.")
+    parser.add_argument("--ambulances", "-a", type=int, required=True, help="Liczba dostępnych karetek")
+    parser.add_argument("--drivers", "-d", type=int, required=True, help="Liczba dostępnych kierowców")
+    parser.add_argument("--employees", "-e", type=int, required=True, help="Liczba dostępnych pracowników")
+    parser.add_argument("--stations", "-s", type=int, required=True, help="Liczba stacji do obsadzenia")
     
     return parser.parse_args()

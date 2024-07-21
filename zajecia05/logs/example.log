@@ -54,3 +54,152 @@
 2024-04-27 17:23:15.606 - zajecia05.zaj03_kod.helpers.check_location - ERROR - Niepoprawne wartości współrzędnych geograficznych!
 2024-04-27 17:23:15.606 - zajecia05.zaj03_kod.helpers.check_location - ERROR - Niepoprawne wartości współrzędnych geograficznych!
 2024-04-27 17:32:27.439 - __main__ - ERROR - Niepoprawne wartości współrzędnych geograficznych!
+2024-07-21 15:30:16.345 - AmbulanceLogger - INFO - Ambulance created: Ambulance ID: 0, Type: Type A, Status: available, Location: (50.09534, 18.920282), Equipment: Defibrillator, Oxygen tank
+2024-07-21 15:30:16.345 - AmbulanceLogger - INFO - Ambulance created: Ambulance ID: 1, Type: Type B, Status: on mission, Location: (50.09534, 19.920282), Equipment: Stretcher, First Aid Kit
+2024-07-21 15:30:16.345 - AmbulanceLogger - INFO - Ambulance created: Ambulance ID: 2, Type: Type B, Status: available, Location: (51.324454, 18.997652), Equipment: Stretcher, First Aid Kit
+2024-07-21 15:30:16.346 - AmbulanceLogger - INFO - Ambulance created: Ambulance ID: 3, Type: Type A, Status: available, Location: (49.376565, 19.154563), Equipment: Defibrillator, Oxygen tank
+2024-07-21 15:30:16.346 - AmbulanceLogger - INFO - Ambulance created: Ambulance ID: 4, Type: Type C, Status: available, Location: (51.334565, 20.435457), Equipment: Defibrillator, Oxygen tank
+2024-07-21 15:33:15.937 - AmbulanceLogger - INFO - Ambulance created: Ambulance ID: 0, Type: Type A, Status: available, Location: (50.09534, 18.920282), Equipment: Defibrillator, Oxygen tank
+2024-07-21 15:33:15.937 - AmbulanceLogger - INFO - Ambulance created: Ambulance ID: 1, Type: Type B, Status: on mission, Location: (50.09534, 19.920282), Equipment: Stretcher, First Aid Kit
+2024-07-21 15:33:15.937 - AmbulanceLogger - INFO - Ambulance created: Ambulance ID: 2, Type: Type B, Status: available, Location: (51.324454, 18.997652), Equipment: Stretcher, First Aid Kit
+2024-07-21 15:33:15.938 - AmbulanceLogger - INFO - Ambulance created: Ambulance ID: 3, Type: Type A, Status: available, Location: (49.376565, 19.154563), Equipment: Defibrillator, Oxygen tank
+2024-07-21 15:33:15.938 - AmbulanceLogger - INFO - Ambulance created: Ambulance ID: 4, Type: Type C, Status: available, Location: (51.334565, 20.435457), Equipment: Defibrillator, Oxygen tank
+2024-07-21 15:33:15.938 - AmbulanceLogger - ERROR - Invalid coordinates: (200.334565, -2000.435457)
+2024-07-21 15:33:15.938 - MainAppLogger - ERROR - Invalid coordinates for location
+2024-07-21 15:39:59.565 - AmbulanceLogger - INFO - Ambulance created: Ambulance ID: 0, Type: Type A, Status: available, Location: (50.09534, 18.920282), Equipment: Defibrillator, Oxygen tank
+2024-07-21 15:39:59.565 - AmbulanceLogger - INFO - Ambulance created: Ambulance ID: 1, Type: Type B, Status: on mission, Location: (50.09534, 19.920282), Equipment: Stretcher, First Aid Kit
+2024-07-21 15:39:59.565 - AmbulanceLogger - INFO - Ambulance created: Ambulance ID: 2, Type: Type B, Status: available, Location: (51.324454, 18.997652), Equipment: Stretcher, First Aid Kit
+2024-07-21 15:39:59.566 - AmbulanceLogger - INFO - Ambulance created: Ambulance ID: 3, Type: Type A, Status: available, Location: (49.376565, 19.154563), Equipment: Defibrillator, Oxygen tank
+2024-07-21 15:39:59.566 - AmbulanceLogger - INFO - Ambulance created: Ambulance ID: 4, Type: Type C, Status: available, Location: (51.334565, 20.435457), Equipment: Defibrillator, Oxygen tank
+2024-07-21 15:39:59.566 - AmbulanceLogger - ERROR - Invalid coordinates: (200.334565, -2000.435457)
+2024-07-21 15:39:59.566 - MainAppLogger - ERROR - Invalid coordinates for location
+2024-07-21 15:39:59.567 - IncidentLogger - INFO - Incident created: Incident 0: Power outage in sector 4, priority=2, 27.03.2024 14:45, reported by: Grzegorz Kowalski
+2024-07-21 15:39:59.567 - IncidentLogger - INFO - Incident created: Incident 1: Fire alarm in building 21, priority=1, 27.03.2024 09:21, reported by: Matylda Wałczyk
+2024-07-21 15:39:59.568 - IncidentLogger - INFO - Incident created: Incident 2: Fire alarm in building 41, priority=1, 27.03.2024 16:21, reported by: Mariusz Kolec
+2024-07-21 15:39:59.568 - IncidentLogger - ERROR - Invalid coordinates: (500.22227, 20.234324)
+2024-07-21 15:39:59.568 - MainAppLogger - ERROR - Invalid coordinates for location
+2024-07-21 15:43:43.998 - AmbulanceLogger - INFO - Ambulance created: Ambulance ID: 0, Type: Type A, Status: available, Location: (50.09534, 18.920282), Equipment: Defibrillator, Oxygen tank
+2024-07-21 15:43:43.999 - AmbulanceLogger - INFO - Ambulance created: Ambulance ID: 1, Type: Type B, Status: on mission, Location: (50.09534, 19.920282), Equipment: Stretcher, First Aid Kit
+2024-07-21 15:43:43.999 - AmbulanceLogger - INFO - Ambulance created: Ambulance ID: 2, Type: Type B, Status: available, Location: (51.324454, 18.997652), Equipment: Stretcher, First Aid Kit
+2024-07-21 15:43:43.999 - AmbulanceLogger - INFO - Ambulance created: Ambulance ID: 3, Type: Type A, Status: available, Location: (49.376565, 19.154563), Equipment: Defibrillator, Oxygen tank
+2024-07-21 15:43:43.999 - AmbulanceLogger - INFO - Ambulance created: Ambulance ID: 4, Type: Type C, Status: available, Location: (51.334565, 20.435457), Equipment: Defibrillator, Oxygen tank
+2024-07-21 15:43:44.000 - AmbulanceLogger - ERROR - Invalid coordinates: (200.334565, -2000.435457)
+2024-07-21 15:43:44.000 - MainAppLogger - ERROR - Invalid coordinates for location
+2024-07-21 15:43:44.001 - IncidentLogger - INFO - Incident created: Incident 0: Power outage in sector 4, priority=2, 27.03.2024 14:45, reported by: Grzegorz Kowalski
+2024-07-21 15:43:44.001 - IncidentLogger - INFO - Incident created: Incident 1: Fire alarm in building 21, priority=1, 27.03.2024 09:21, reported by: Matylda Wałczyk
+2024-07-21 15:43:44.001 - IncidentLogger - INFO - Incident created: Incident 2: Fire alarm in building 41, priority=1, 27.03.2024 16:21, reported by: Mariusz Kolec
+2024-07-21 15:43:44.001 - IncidentLogger - ERROR - Invalid coordinates: (500.22227, 20.234324)
+2024-07-21 15:43:44.002 - MainAppLogger - ERROR - Invalid coordinates for location
+2024-07-21 15:43:44.007 - IncidentLogger - INFO - Incident created: Incident 3: Cat hanging on a tree, priority=3, 06.04.2024 12:45, reported by: Katarzyna Lasko
+2024-07-21 15:43:44.007 - IncidentLogger - INFO - Incident created: Incident 4: Heart attack, priority=1, 06.04.2024 10:34, reported by: Jacek Pawłowicz
+2024-07-21 15:49:06.068 - AmbulanceLogger - INFO - Ambulance created: Ambulance ID: 0, Type: Type A, Status: available, Location: (50.09534, 18.920282), Equipment: Defibrillator, Oxygen tank
+2024-07-21 15:49:06.069 - AmbulanceLogger - INFO - Ambulance created: Ambulance ID: 1, Type: Type B, Status: on mission, Location: (50.09534, 19.920282), Equipment: Stretcher, First Aid Kit
+2024-07-21 15:49:06.069 - AmbulanceLogger - INFO - Ambulance created: Ambulance ID: 2, Type: Type B, Status: available, Location: (51.324454, 18.997652), Equipment: Stretcher, First Aid Kit
+2024-07-21 15:49:06.069 - AmbulanceLogger - INFO - Ambulance created: Ambulance ID: 3, Type: Type A, Status: available, Location: (49.376565, 19.154563), Equipment: Defibrillator, Oxygen tank
+2024-07-21 15:49:06.069 - AmbulanceLogger - INFO - Ambulance created: Ambulance ID: 4, Type: Type C, Status: available, Location: (51.334565, 20.435457), Equipment: Defibrillator, Oxygen tank
+2024-07-21 15:49:06.070 - AmbulanceLogger - ERROR - Invalid coordinates: (200.334565, -2000.435457)
+2024-07-21 15:49:06.070 - MainAppLogger - ERROR - Invalid coordinates for location
+2024-07-21 15:49:06.071 - IncidentLogger - INFO - Incident created: <zajecia05.zaj03_kod.fleet.station.Station object at 0x000001ECF6AC9E10>
+2024-07-21 15:49:06.071 - IncidentLogger - INFO - Incident created: <zajecia05.zaj03_kod.fleet.station.Station object at 0x000001ECF6AC9E10>
+2024-07-21 15:49:06.071 - IncidentLogger - INFO - Incident created: <zajecia05.zaj03_kod.fleet.station.Station object at 0x000001ECF6AC9E70>
+2024-07-21 15:49:06.071 - IncidentLogger - INFO - Incident created: <zajecia05.zaj03_kod.fleet.station.Station object at 0x000001ECF6AC9E70>
+2024-07-21 15:49:06.071 - IncidentLogger - ERROR - Invalid coordinates: (50.055454, 500.956432)
+2024-07-21 15:49:06.071 - IncidentLogger - ERROR - Invalid coordinates: (50.055454, 500.956432)
+2024-07-21 15:49:06.072 - MainAppLogger - ERROR - Invalid coordinates for location
+2024-07-21 15:49:06.072 - IncidentLogger - INFO - Incident created: Incident 0: Power outage in sector 4, priority=2, 27.03.2024 14:45, reported by: Grzegorz Kowalski
+2024-07-21 15:49:06.072 - IncidentLogger - INFO - Incident created: Incident 0: Power outage in sector 4, priority=2, 27.03.2024 14:45, reported by: Grzegorz Kowalski
+2024-07-21 15:49:06.072 - IncidentLogger - INFO - Incident created: Incident 1: Fire alarm in building 21, priority=1, 27.03.2024 09:21, reported by: Matylda Wałczyk
+2024-07-21 15:49:06.072 - IncidentLogger - INFO - Incident created: Incident 1: Fire alarm in building 21, priority=1, 27.03.2024 09:21, reported by: Matylda Wałczyk
+2024-07-21 15:49:06.073 - IncidentLogger - INFO - Incident created: Incident 2: Fire alarm in building 41, priority=1, 27.03.2024 16:21, reported by: Mariusz Kolec
+2024-07-21 15:49:06.073 - IncidentLogger - INFO - Incident created: Incident 2: Fire alarm in building 41, priority=1, 27.03.2024 16:21, reported by: Mariusz Kolec
+2024-07-21 15:49:06.073 - IncidentLogger - ERROR - Invalid coordinates: (500.22227, 20.234324)
+2024-07-21 15:49:06.073 - IncidentLogger - ERROR - Invalid coordinates: (500.22227, 20.234324)
+2024-07-21 15:49:06.073 - MainAppLogger - ERROR - Invalid coordinates for location
+2024-07-21 15:49:06.078 - IncidentLogger - INFO - Incident created: Incident 3: Cat hanging on a tree, priority=3, 06.04.2024 12:45, reported by: Katarzyna Lasko
+2024-07-21 15:49:06.078 - IncidentLogger - INFO - Incident created: Incident 3: Cat hanging on a tree, priority=3, 06.04.2024 12:45, reported by: Katarzyna Lasko
+2024-07-21 15:49:06.079 - IncidentLogger - INFO - Incident created: Incident 4: Heart attack, priority=1, 06.04.2024 10:34, reported by: Jacek Pawłowicz
+2024-07-21 15:49:06.079 - IncidentLogger - INFO - Incident created: Incident 4: Heart attack, priority=1, 06.04.2024 10:34, reported by: Jacek Pawłowicz
+2024-07-21 15:50:22.731 - AmbulanceLogger - INFO - Ambulance created: Ambulance ID: 0, Type: Type A, Status: available, Location: (50.09534, 18.920282), Equipment: Defibrillator, Oxygen tank
+2024-07-21 15:50:22.731 - AmbulanceLogger - INFO - Ambulance created: Ambulance ID: 1, Type: Type B, Status: on mission, Location: (50.09534, 19.920282), Equipment: Stretcher, First Aid Kit
+2024-07-21 15:50:22.731 - AmbulanceLogger - INFO - Ambulance created: Ambulance ID: 2, Type: Type B, Status: available, Location: (51.324454, 18.997652), Equipment: Stretcher, First Aid Kit
+2024-07-21 15:50:22.732 - AmbulanceLogger - INFO - Ambulance created: Ambulance ID: 3, Type: Type A, Status: available, Location: (49.376565, 19.154563), Equipment: Defibrillator, Oxygen tank
+2024-07-21 15:50:22.732 - AmbulanceLogger - INFO - Ambulance created: Ambulance ID: 4, Type: Type C, Status: available, Location: (51.334565, 20.435457), Equipment: Defibrillator, Oxygen tank
+2024-07-21 15:50:22.732 - AmbulanceLogger - ERROR - Invalid coordinates: (200.334565, -2000.435457)
+2024-07-21 15:50:22.732 - MainAppLogger - ERROR - Invalid coordinates for location
+2024-07-21 15:50:22.733 - StationLogger - INFO - Station created: <zajecia05.zaj03_kod.fleet.station.Station object at 0x000001B816418E80>
+2024-07-21 15:50:22.733 - StationLogger - INFO - Station created: <zajecia05.zaj03_kod.fleet.station.Station object at 0x000001B816418E20>
+2024-07-21 15:50:22.733 - StationLogger - ERROR - Invalid coordinates: (50.055454, 500.956432)
+2024-07-21 15:50:22.733 - MainAppLogger - ERROR - Invalid coordinates for location
+2024-07-21 15:50:22.734 - IncidentLogger - INFO - Incident created: Incident 0: Power outage in sector 4, priority=2, 27.03.2024 14:45, reported by: Grzegorz Kowalski
+2024-07-21 15:50:22.734 - IncidentLogger - INFO - Incident created: Incident 1: Fire alarm in building 21, priority=1, 27.03.2024 09:21, reported by: Matylda Wałczyk
+2024-07-21 15:50:22.734 - IncidentLogger - INFO - Incident created: Incident 2: Fire alarm in building 41, priority=1, 27.03.2024 16:21, reported by: Mariusz Kolec
+2024-07-21 15:50:22.735 - IncidentLogger - ERROR - Invalid coordinates: (500.22227, 20.234324)
+2024-07-21 15:50:22.735 - MainAppLogger - ERROR - Invalid coordinates for location
+2024-07-21 15:50:22.740 - IncidentLogger - INFO - Incident created: Incident 3: Cat hanging on a tree, priority=3, 06.04.2024 12:45, reported by: Katarzyna Lasko
+2024-07-21 15:50:22.740 - IncidentLogger - INFO - Incident created: Incident 4: Heart attack, priority=1, 06.04.2024 10:34, reported by: Jacek Pawłowicz
+2024-07-21 15:52:16.307 - AmbulanceLogger - INFO - Ambulance created: Ambulance ID: 0, Type: Type A, Status: available, Location: (50.09534, 18.920282), Equipment: Defibrillator, Oxygen tank
+2024-07-21 15:52:16.307 - AmbulanceLogger - INFO - Ambulance created: Ambulance ID: 1, Type: Type B, Status: on mission, Location: (50.09534, 19.920282), Equipment: Stretcher, First Aid Kit
+2024-07-21 15:52:16.307 - AmbulanceLogger - INFO - Ambulance created: Ambulance ID: 2, Type: Type B, Status: available, Location: (51.324454, 18.997652), Equipment: Stretcher, First Aid Kit
+2024-07-21 15:52:16.308 - AmbulanceLogger - INFO - Ambulance created: Ambulance ID: 3, Type: Type A, Status: available, Location: (49.376565, 19.154563), Equipment: Defibrillator, Oxygen tank
+2024-07-21 15:52:16.308 - AmbulanceLogger - INFO - Ambulance created: Ambulance ID: 4, Type: Type C, Status: available, Location: (51.334565, 20.435457), Equipment: Defibrillator, Oxygen tank
+2024-07-21 15:52:16.308 - AmbulanceLogger - ERROR - Invalid coordinates: (200.334565, -2000.435457)
+2024-07-21 15:52:16.308 - MainAppLogger - ERROR - Invalid coordinates for location
+2024-07-21 15:52:16.309 - StationLogger - INFO - Station created: Station(id=0
+2024-07-21 15:52:16.309 - StationLogger - INFO - Station created: Station(id=1
+2024-07-21 15:52:16.309 - StationLogger - ERROR - Invalid coordinates: (50.055454, 500.956432)
+2024-07-21 15:52:16.309 - MainAppLogger - ERROR - Invalid coordinates for location
+2024-07-21 15:52:16.310 - IncidentLogger - INFO - Incident created: Incident 0: Power outage in sector 4, priority=2, 27.03.2024 14:45, reported by: Grzegorz Kowalski
+2024-07-21 15:52:16.310 - IncidentLogger - INFO - Incident created: Incident 1: Fire alarm in building 21, priority=1, 27.03.2024 09:21, reported by: Matylda Wałczyk
+2024-07-21 15:52:16.310 - IncidentLogger - INFO - Incident created: Incident 2: Fire alarm in building 41, priority=1, 27.03.2024 16:21, reported by: Mariusz Kolec
+2024-07-21 15:52:16.311 - IncidentLogger - ERROR - Invalid coordinates: (500.22227, 20.234324)
+2024-07-21 15:52:16.311 - MainAppLogger - ERROR - Invalid coordinates for location
+2024-07-21 15:52:16.316 - IncidentLogger - INFO - Incident created: Incident 3: Cat hanging on a tree, priority=3, 06.04.2024 12:45, reported by: Katarzyna Lasko
+2024-07-21 15:52:16.316 - IncidentLogger - INFO - Incident created: Incident 4: Heart attack, priority=1, 06.04.2024 10:34, reported by: Jacek Pawłowicz
+2024-07-21 15:52:42.476 - AmbulanceLogger - INFO - Ambulance created: Ambulance ID: 0, Type: Type A, Status: available, Location: (50.09534, 18.920282), Equipment: Defibrillator, Oxygen tank
+2024-07-21 15:52:42.476 - AmbulanceLogger - INFO - Ambulance created: Ambulance ID: 1, Type: Type B, Status: on mission, Location: (50.09534, 19.920282), Equipment: Stretcher, First Aid Kit
+2024-07-21 15:52:42.476 - AmbulanceLogger - INFO - Ambulance created: Ambulance ID: 2, Type: Type B, Status: available, Location: (51.324454, 18.997652), Equipment: Stretcher, First Aid Kit
+2024-07-21 15:52:42.476 - AmbulanceLogger - INFO - Ambulance created: Ambulance ID: 3, Type: Type A, Status: available, Location: (49.376565, 19.154563), Equipment: Defibrillator, Oxygen tank
+2024-07-21 15:52:42.477 - AmbulanceLogger - INFO - Ambulance created: Ambulance ID: 4, Type: Type C, Status: available, Location: (51.334565, 20.435457), Equipment: Defibrillator, Oxygen tank
+2024-07-21 15:52:42.477 - AmbulanceLogger - ERROR - Invalid coordinates: (200.334565, -2000.435457)
+2024-07-21 15:52:42.477 - MainAppLogger - ERROR - Invalid coordinates for location
+2024-07-21 15:52:42.478 - StationLogger - INFO - Station created: Station: id=0
+2024-07-21 15:52:42.478 - StationLogger - INFO - Station created: Station: id=1
+2024-07-21 15:52:42.478 - StationLogger - ERROR - Invalid coordinates: (50.055454, 500.956432)
+2024-07-21 15:52:42.478 - MainAppLogger - ERROR - Invalid coordinates for location
+2024-07-21 15:52:42.478 - IncidentLogger - INFO - Incident created: Incident 0: Power outage in sector 4, priority=2, 27.03.2024 14:45, reported by: Grzegorz Kowalski
+2024-07-21 15:52:42.479 - IncidentLogger - INFO - Incident created: Incident 1: Fire alarm in building 21, priority=1, 27.03.2024 09:21, reported by: Matylda Wałczyk
+2024-07-21 15:52:42.479 - IncidentLogger - INFO - Incident created: Incident 2: Fire alarm in building 41, priority=1, 27.03.2024 16:21, reported by: Mariusz Kolec
+2024-07-21 15:52:42.479 - IncidentLogger - ERROR - Invalid coordinates: (500.22227, 20.234324)
+2024-07-21 15:52:42.479 - MainAppLogger - ERROR - Invalid coordinates for location
+2024-07-21 15:52:42.484 - IncidentLogger - INFO - Incident created: Incident 3: Cat hanging on a tree, priority=3, 06.04.2024 12:45, reported by: Katarzyna Lasko
+2024-07-21 15:52:42.484 - IncidentLogger - INFO - Incident created: Incident 4: Heart attack, priority=1, 06.04.2024 10:34, reported by: Jacek Pawłowicz
+2024-07-21 16:08:39.273 - AmbulanceLogger - INFO - Ambulance created: Ambulance ID: 0, Type: Type 1, Status: available, Location: (50.09534, 18.920282), Equipment: Defibrillator, Oxygen tank
+2024-07-21 16:08:39.274 - AmbulanceLogger - INFO - Ambulance created: Ambulance ID: 1, Type: Type 2, Status: available, Location: (50.10534, 18.930282000000002), Equipment: Defibrillator, Oxygen tank
+2024-07-21 16:08:39.274 - AmbulanceLogger - INFO - Ambulance created: Ambulance ID: 2, Type: Type 3, Status: available, Location: (50.11534, 18.940282), Equipment: Defibrillator, Oxygen tank
+2024-07-21 16:08:39.274 - AmbulanceLogger - INFO - Ambulance created: Ambulance ID: 3, Type: Type 1, Status: available, Location: (50.12534, 18.950282), Equipment: Defibrillator, Oxygen tank
+2024-07-21 16:08:39.275 - AmbulanceLogger - INFO - Ambulance created: Ambulance ID: 4, Type: Type 2, Status: available, Location: (50.13534, 18.960282), Equipment: Defibrillator, Oxygen tank
+2024-07-21 16:08:39.275 - StationLogger - INFO - Station created: Station: id=0
+2024-07-21 16:08:39.275 - StationLogger - INFO - Station created: Station: id=1
+2024-07-21 16:08:39.275 - StationLogger - INFO - Station created: Station: id=2
+2024-07-21 16:08:39.276 - MainAppLogger - INFO - Utworzono 3 stacji.
+2024-07-21 16:11:53.306 - AmbulanceLogger - INFO - Ambulance created: Ambulance ID: 0, Type: Type 1, Status: available, Location: (50.09534, 18.920282), Equipment: Defibrillator, Oxygen tank
+2024-07-21 16:11:53.306 - AmbulanceLogger - INFO - Ambulance created: Ambulance ID: 1, Type: Type 2, Status: available, Location: (50.10534, 18.930282000000002), Equipment: Defibrillator, Oxygen tank
+2024-07-21 16:11:53.306 - AmbulanceLogger - INFO - Ambulance created: Ambulance ID: 2, Type: Type 3, Status: available, Location: (50.11534, 18.940282), Equipment: Defibrillator, Oxygen tank
+2024-07-21 16:11:53.306 - AmbulanceLogger - INFO - Ambulance created: Ambulance ID: 3, Type: Type 1, Status: available, Location: (50.12534, 18.950282), Equipment: Defibrillator, Oxygen tank
+2024-07-21 16:11:53.307 - AmbulanceLogger - INFO - Ambulance created: Ambulance ID: 4, Type: Type 2, Status: available, Location: (50.13534, 18.960282), Equipment: Defibrillator, Oxygen tank
+2024-07-21 16:11:53.307 - StationLogger - INFO - Station created: Station: id=0
+2024-07-21 16:11:53.307 - StationLogger - INFO - Station created: Station: id=1
+2024-07-21 16:11:53.307 - StationLogger - INFO - Station created: Station: id=2
+2024-07-21 16:11:53.307 - MainAppLogger - INFO - Utworzono 3 stacji.
+2024-07-21 16:11:53.308 - IncidentLogger - INFO - Incident created: Incident 0: Power outage in sector 4, priority=2, 27.03.2024 14:45, reported by: Grzegorz Kowalski
+2024-07-21 16:11:53.308 - IncidentLogger - INFO - Incident created: Incident 1: Fire alarm in building 21, priority=1, 27.03.2024 09:21, reported by: Matylda Wałczyk
+2024-07-21 16:11:53.308 - IncidentLogger - INFO - Incident created: Incident 2: Fire alarm in building 41, priority=1, 27.03.2024 16:21, reported by: Mariusz Kolec
+2024-07-21 16:13:25.223 - AmbulanceLogger - INFO - Ambulance created: Ambulance ID: 0, Type: Type 1, Status: available, Location: (50.09534, 18.920282), Equipment: Defibrillator, Oxygen tank
+2024-07-21 16:13:25.224 - AmbulanceLogger - INFO - Ambulance created: Ambulance ID: 1, Type: Type 2, Status: available, Location: (50.10534, 18.930282000000002), Equipment: Defibrillator, Oxygen tank
+2024-07-21 16:13:25.224 - AmbulanceLogger - INFO - Ambulance created: Ambulance ID: 2, Type: Type 3, Status: available, Location: (50.11534, 18.940282), Equipment: Defibrillator, Oxygen tank
+2024-07-21 16:13:25.224 - AmbulanceLogger - INFO - Ambulance created: Ambulance ID: 3, Type: Type 1, Status: available, Location: (50.12534, 18.950282), Equipment: Defibrillator, Oxygen tank
+2024-07-21 16:13:25.225 - AmbulanceLogger - INFO - Ambulance created: Ambulance ID: 4, Type: Type 2, Status: available, Location: (50.13534, 18.960282), Equipment: Defibrillator, Oxygen tank
+2024-07-21 16:13:25.225 - StationLogger - INFO - Station created: Station: id=0
+2024-07-21 16:13:25.225 - StationLogger - INFO - Station created: Station: id=1
+2024-07-21 16:13:25.225 - StationLogger - INFO - Station created: Station: id=2
+2024-07-21 16:13:25.225 - MainAppLogger - INFO - Utworzono 3 stacji.

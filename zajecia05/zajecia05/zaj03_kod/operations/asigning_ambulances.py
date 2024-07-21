@@ -15,7 +15,7 @@ def asign_ambulances(ambulanceQueue, incidentQueue):
             feedback = ""
 
             available_incidents = list(filter(lambda incident: incident.ambulance == None, incidentQueue))
-            sorted_incidents = sorted(available_incidents, key = lambda incident: (incident.priorty, passed_time(incident)))
+            sorted_incidents = sorted(available_incidents, key = lambda incident: (incident.priority, passed_time(incident)))
         
             for incident in sorted_incidents:
                 d_unsorted = {}
