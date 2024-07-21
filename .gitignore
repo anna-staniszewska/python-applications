@@ -1,4 +1,7 @@
+projekt_cw5.egg-info
 *.pdf
+*.pyc
+*.toml
 __pycache__
 zajecia02/skrypt1.py
 zajecia01/main
